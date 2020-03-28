@@ -2,21 +2,21 @@
 
 <p>
   <a href="https://www.apache.org/licenses/LICENSE-2.0"><img src="https://img.shields.io/badge/license-Apache%202-blue" alt="Apache2 协议"></a>
-  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/issues-33%20open-yellow" alt="issue"></a>
-  <img src="https://img.shields.io/badge/views-20k-brightgreen">
-  <img src="https://img.shields.io/badge/downloads-5M-brightgreen">
   <img src="https://img.shields.io/badge/release-v1.0.0-blue">
-  <img src="https://img.shields.io/badge/code%20quality-A-brightgreen">
   <img src="https://img.shields.io/badge/build-passing-brightgreen">
+  <img src="https://img.shields.io/badge/downloads-5M-brightgreen">
 </p>
 
 <p>
   <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E6%88%91%E4%BB%AC%E9%83%BD%E6%98%AF%E5%B0%8F%E7%99%BD%E9%BC%A0-blue.svg" alt="公众号"></a>
-  <a href="https://gitee.com/tkz_wu/springboot-bucket/"><img src="https://img.shields.io/badge/%E7%A0%81%E4%BA%91-%E9%A1%B9%E7%9B%AE%E5%9C%B0%E5%9D%80-yellowgreen.svg" alt="码云"></a>
+  <a href="https://github.com/tiankaizhi/SpringBoot-Bucket"><img src="https://img.shields.io/badge/GitHub-%E9%A1%B9%E7%9B%AE%E5%9C%B0%E5%9D%80-9cf.svg" alt="github"></a>
+  <a href="https://gitee.com/tkz_wu/SpringBoot-Bucket"><img src="https://img.shields.io/badge/%E7%A0%81%E4%BA%91-%E9%A1%B9%E7%9B%AE%E5%9C%B0%E5%9D%80-yellowgreen.svg" alt="码云"></a>
+  <a href="https://blog.csdn.net/weixin_44197154/"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2%E5%9C%B0%E5%9D%80-success.svg" alt="CSDN"></a>
   <a href="https://www.cnblogs.com/tkzL/"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%E5%9B%AD-%E5%8D%9A%E5%AE%A2%E5%9C%B0%E5%9D%80-yellow.svg" alt="博客园"></a>
-  <a href="https://www.zhihu.com/people/tiankaizhi/"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E7%9F%A5%E4%B9%8E%E5%9C%B0%E5%9D%80-green.svg" alt="知乎"></a>
   <a href="https://my.oschina.net/tiankaizhi/"><img src="https://img.shields.io/badge/%E5%BC%80%E6%BA%90%E4%B8%AD%E5%9B%BD-%E5%8D%9A%E5%AE%A2%E5%9C%B0%E5%9D%80-37a14e.svg" alt="开源中国"></a>
   <a href="https://segmentfault.com/u/tiankaizhi/"><img src="https://img.shields.io/badge/%E6%80%9D%E5%90%A6-%E5%8D%9A%E5%AE%A2%E5%9C%B0%E5%9D%80-blueviolet.svg" alt="思否"></a>
+  <a href="https://www.jianshu.com/u/9b5933251e36/"><img src="https://img.shields.io/badge/%E7%AE%80%E4%B9%A6-%E6%96%87%E7%AB%A0-ea6f5a.svg" alt="简书"></a>
+  <a href="https://www.zhihu.com/people/tiankaizhi/"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E7%9F%A5%E4%B9%8E%E5%9C%B0%E5%9D%80-green.svg" alt="知乎"></a>
 </p>
 
 ## 前言
